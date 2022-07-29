@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  },
+  "name": "andresilvagusmao.github.io",
+  "description": "This website has the purpose of presenting the following elements:\r An about page where I present more info about me.\r An agenda page where I share my study/work plans.\r A blog page where I share the information I believe is relevant.\r A portfolio page where I share all content I created that could be publically published.",
+  "version": "1.0.0",
+  "source": "./src/index.html",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2"
+  },
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresilvagusmao/andresilvagusmao.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresilvagusmao/andresilvagusmao.github.io/issues"
+  },
+  "homepage": "https://github.com/andresilvagusmao/andresilvagusmao.github.io#readme"
+}
