@@ -1,4 +1,4 @@
-# Source code behind andresilvagusmao.github.io 
+# Access andresilvagusmao.github.io 
 ## About andresilvagusmao.github.io :octocat:
 andresilvagusmao.github.io is the website created by me, Andre Silva Gusmao, hosted via GitHub pages that serves 4 main purposes(in-depth explained in About/index page in andresilvagusmao.github.io):
 - Showcase Andre's new open source projects. (portfolio page) ==> The portifolio is deactivated for now.
